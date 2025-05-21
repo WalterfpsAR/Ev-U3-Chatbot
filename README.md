@@ -55,7 +55,7 @@ chatbot_escolar/
 
 1. Clona este repositorio:
 ```bash
-git clone https://github.com/tuusuario/chatbot-escolar.git
+git clone https://github.com/WalterfpsAR/Ev-U3-Chatbot.git
 cd chatbot-escolar
 ```
 2. Instala Flask
