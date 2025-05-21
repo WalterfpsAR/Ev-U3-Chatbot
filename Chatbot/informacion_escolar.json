@@ -1,0 +1,108 @@
+{
+    "fechas": {
+      "reinscripcion": "del 10 al 15 de junio",
+      "entrega_documentos": "20 de junio",
+      "examenes_finales": "1 al 7 de julio"
+    },
+    "fichas_pago": {
+      "inscripcion": {
+        "monto": "1250 MXN",
+        "fecha_limite": "9 de junio",
+        "pasos": "Ingresar a tu portal > Finanzas > Generar ficha"
+      }
+    },
+    "tramites": {
+      "constancia": "Presentar identificación y comprobante de pago en control escolar.",
+      "credencial": "Acudir con INE y una foto tamaño infantil a servicios escolares."
+    },
+    "horarios": {
+      "control_escolar": "Lunes a viernes, 9:00 a 15:00",
+      "biblioteca": "Lunes a viernes, 8:00 a 18:00"
+    },
+    "contacto": {
+      "control_escolar": "control@escuela.edu.mx",
+      "finanzas": "finanzas@escuela.edu.mx"
+    },
+    "alumnos": [
+      {
+        "numero_control": "22020311",
+        "nombre": "María Estela Paleo Arcos",
+        "carrera": "Ingeniería en Sistemas Computacionales",
+        "semestre": "6",
+        "calificaciones": {
+          "Programación Avanzada": 9.0,
+          "Sistemas Operativos": 8.7
+        },
+        "adeudos": []
+      },
+      {
+        "numero_control": "22020408",
+        "nombre": "Alondra Jaqueline Ochoa Ramos",
+        "carrera": "Ingeniería en Sistemas Computacionales",
+        "semestre": "6",
+        "calificaciones": {
+          "Estructura de Datos": 9.5,
+          "Bases de Datos": 9.2
+        },
+        "adeudos": []
+      },
+      {
+        "numero_control": "22020401",
+        "nombre": "Aracely Martinez Monroy",
+        "carrera": "Ingeniería en Sistemas Computacionales",
+        "semestre": "6",
+        "calificaciones": {
+          "Matemáticas Discretas": 8.9,
+          "Algoritmos": 9.3
+        },
+        "adeudos": ["Libros de biblioteca"]
+      },
+      {
+        "numero_control": "22020338",
+        "nombre": "Maria de Jesus Dominguez Hernandez",
+        "carrera": "Ingeniería en Sistemas Computacionales",
+        "semestre": "6",
+        "calificaciones": {
+          "Ingeniería de Software": 9.1,
+          "Redes de Computadoras": 9.4
+        },
+        "adeudos": []
+      },
+      {
+        "numero_control": "21020041",
+        "nombre": "Walter Jahir Ambriz Reyna",
+        "carrera": "Ingeniería en Sistemas Computacionales",
+        "semestre": "7",
+        "calificaciones": {
+          "Programación web": 7.7,
+          "Bases de Datos": 8.8,
+          "Sistemas Operativos": 8.5,
+          "Matemáticas Discretas": 9.0
+        },
+        "adeudos": ["Constancia pendiente"]
+      },
+      {
+        "numero_control": "21020012",
+        "nombre": "Cristian Suarez Espinoza",
+        "carrera": "Ingeniería en Sistemas Computacionales",
+        "semestre": "7",
+        "calificaciones": {
+          "Taller de Sistemas": 8.8,
+          "Seguridad Informática": 9.0
+        },
+        "adeudos": []
+      },
+      {
+        "numero_control": "21020015",
+        "nombre": "Maria Guadalupe Molontizn Ruiz",
+        "carrera": "Ingeniería en Sistemas Computacionales",
+        "semestre": "7",
+        "calificaciones": {
+          "Programación en Python": 9.6,
+          "Administración de Proyectos": 9.1
+        },
+        "adeudos": []
+      }
+    ]
+  }
+  
